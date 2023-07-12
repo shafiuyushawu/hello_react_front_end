@@ -17,7 +17,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -36,7 +35,7 @@
 
 ## [Hello Rails Back End](https://github.com/shafiuyushawu/hello_rails_back_end/tree/random_greeting)
 
-> **Hello world front end* 
+> A simple react application to render random greeting using react-redux.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,14 +59,6 @@
 > Provides the feature to search for your locations with cities, countries names etc,.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-[Not available 😊]()
-
-## Presentation
-
-[Not available 😊]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
